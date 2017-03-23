@@ -1,0 +1,7 @@
+[Dd]ebug/
+[Bb]in/
+*.suo
+*.bak
+obj/
+*.user
+.vs/
